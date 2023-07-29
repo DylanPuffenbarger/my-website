@@ -1,3 +1,20 @@
+*{
+    text-align: center;
+}
+
 body {
-    background: blue;
+    background: tan;
+}
+
+button#left-button{
+    text-align: left;
+}
+
+button#right-button{
+    text-align: right;
+}
+
+img{
+    max-width: 1000px;
+    max-height: 1000px;
 }
